@@ -3,3 +3,7 @@ learning some git stuff lol
 
 now I'm adding two new lines
 from git
+
+added more lines
+directly in the file
+cuz of git gui learning
