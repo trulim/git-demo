@@ -1,2 +1,5 @@
 this is me,
 learning some git stuff lol
+
+now I'm adding two new lines
+from git
